@@ -6,3 +6,7 @@ https://www.figma.com/design/2UZXlmNhBkeRFoJQks3DOf/Untitled?node-id=0-1&t=oSU4i
 # Design System
 Mais um desafio de projeto da DIO.io do curso de UX Design, porém este desafio é sobre Design System. No projeto usei o wireframe utilizado anteriormente.
 https://www.figma.com/design/2UZXlmNhBkeRFoJQks3DOf/Untitled?node-id=0-1&t=1MJG7tPL4NARzaR2-1
+
+# Protótipo navegável
+Mais um desafio de projeto da DIO.io do curso de UX Design. Este desafio é a criação de um protótipo navegável.
+https://www.figma.com/design/PCdYWiFqQ5E83ME6yBYmFq/Monique---Ideia?t=fGGQzHNkJxrBhqMJ-1 
