@@ -10,3 +10,7 @@ https://www.figma.com/design/2UZXlmNhBkeRFoJQks3DOf/Untitled?node-id=0-1&t=1MJG7
 # Protótipo navegável
 Mais um desafio de projeto da DIO.io do curso de UX Design. Este desafio é a criação de um protótipo navegável.
 https://www.figma.com/design/PCdYWiFqQ5E83ME6yBYmFq/Monique---Ideia?t=fGGQzHNkJxrBhqMJ-1 
+
+# Desafio final
+Último desafio de projeto da DIO.io do curso UX Design. Enovlve a implemetação de todas as etapas para a criação de um protótipo profissional.
+https://www.figma.com/design/B6iRN4Y2oiuKSkH1ZLh8ik/Untitled?node-id=5-195&t=RThXbfanKotMckWa-1
